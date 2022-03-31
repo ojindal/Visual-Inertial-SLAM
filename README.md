@@ -1,0 +1,2 @@
+# Visual-Inertial-SLAM
+Implemented visual-inertial simultaneous localization and mapping (SLAM) using an extended Kalman filter (EKF) in Python. Provided data: Synchronized measurements from an inertial measurement unit (IMU) and a stereo camera and the intrinsic camera calibration and the extrinsic calibration between the two sensors, specifying the transformation from the IMU to the left camera frame.
