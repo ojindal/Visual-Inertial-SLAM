@@ -7,10 +7,10 @@ There are total four code files(.py format):
 3. part_b.py
 4. part_c.py
 
-- First one is an extension of the already given files as I added some small small functions.
+- First one contains some utility functions that are used in rest of the code files.
 
-- Second one contains solution of part(a) - IMU Localization via EKF Prediction.
+- Second one contains solution of IMU Localization via EKF Prediction.
 
-- Third one contains solution of part(b) - Landmark Mapping via EKF Update.
+- Third one contains solution of Landmark Mapping via EKF Update.
 
-- Fourth one contains solution of part(c) - Visual SLAM.
+- Fourth one contains solution of Visual SLAM.
